@@ -18,6 +18,12 @@ It is an interactive script that simulates the diffraction measurement of the SH
 
 **Pinhole-Detector Separation**: The vertical distance between the center of the pinhole aperture and detector aperture.
 
-**Sample z position**: The location of the sample
+**Sample z position**: The location of the sample.
+
+**Incident angle theta**: The incident polar angle of the helium beam.
+
+**Incident angle phi**: The incident azimuthal angle of the helium beam. (currently not working)
+
+Lattice orientation: To simulate the rotation of the sample or different crystal orientations in polycrystalline samples.
 
 o(*￣▽￣*)ブ
