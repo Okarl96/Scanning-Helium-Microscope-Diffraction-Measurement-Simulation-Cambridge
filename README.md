@@ -4,7 +4,7 @@ Created by **Ke Wang** with help from **Boyao Liu** and **Min Lin**.
 
 It is an interactive script that simulates the diffraction measurement of the SHeM. It allows different surface lattice structures and different pinhole plate geometry to be simulated. The input of the Multiscat is also implemented, which makes it a good script to visualize the multiscat result.
 
-![Simulation Parameters](https://github.com/user-attachments/assets/6457edca-29f1-46cb-b8f2-24b7fd06dd95)
+![simulation parameters](https://github.com/user-attachments/assets/2178b8f7-2d89-4f39-9471-601a7467eab1)
 
 **Diffraction channel**: Number of diffraction channels in the script. (10 means the diffraction channels from [-10,-10] [-10,-9]... to ...[9,10] [10,10] will be examined)
 
@@ -19,6 +19,12 @@ It is an interactive script that simulates the diffraction measurement of the SH
 **Pinhole-Detector Separation**: The vertical distance between the center of the pinhole aperture and detector aperture.
 
 **Sample z position**: The location of the sample.
+
+![Ashem_scheme](https://github.com/user-attachments/assets/1cd7306a-ef88-406e-b09f-a9432473e9a3)
+
+**Height Difference**: The height of the pinhole conic structure minus the height of the detector aperture conic structure. $H_p - H_d$.
+
+**Detector tiltness**: The angle of the inclination of the detector aperture. $\beta$ in the figure above.
 
 **Incident angle theta**: The incident polar angle of the helium beam.
 
