@@ -70,6 +70,6 @@ It is an interactive script that simulates the diffraction measurement of the SH
 
 **save_plots_index**: Name of the picture file saved in "save_plots".
 
-For plotting the 2D diffraction measurement, there is an example in the Notebook which should be easily understood.
+For plotting the 2D diffraction measurement, there is an example in the Notebook.
 
 o(*￣▽￣*)ブ
