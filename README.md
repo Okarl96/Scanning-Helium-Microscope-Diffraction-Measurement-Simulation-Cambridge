@@ -87,4 +87,12 @@ There is one thing to be noticed, if one wants to import Multiscat results, the 
 
 ![example multiscat](https://github.com/user-attachments/assets/8bf82870-d377-4159-9c36-a2bda589fdc0)
 
+To generate the simulated 2D plot. The matrix 'IS' contains a series of line scan results (0 to 60 deg range) and is repeated 6 times for a hexagonal lattice. A log10 is used just to reduce the contrast in the final 2D plot to make it look similar to the real experiment.  
+
+![example plot 2d](https://github.com/user-attachments/assets/8b69e46c-cf95-4fc3-9ba4-08b51054d4bb)
+
+
+
+
+
 o(*￣▽￣*)ブ
