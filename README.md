@@ -79,6 +79,8 @@ This is the place where the parameters of importing these Multiscat results corr
 
 ![examples](https://github.com/user-attachments/assets/6d9c4d7f-a48c-44f8-9985-9450d260294b)
 
+These are the parameters for generating a series of line scans. The function of each parameters is exactly the same as introduced above.
+
 ![example 2d](https://github.com/user-attachments/assets/a56dee69-8957-41f9-8b42-7d7517ec4afb)
 
 There is one thing to be noticed, if one wants to import Multiscat results, the 'angle_ranges' should be changed according to whether the **reverse_latt_orientation_for_simulation** is enabled or not and the value of **Angle compensation**. For example: if we are using 'MoS2_2H_NEW.mtl', the proper importing parameters are 'angle_compensate = -30, reverse_latt_orientation_for_simulation=True', the 'angle_ranges' should be from 30 to 90. The values in the 'angle_ranges' will be summed by the 'angle_compensate' which is -30 and turns the 'angle_ranges' into 0 to 60 to match the Multiscat result which is from 0 to 60. The 'reverse_latt_orientation_for_simulation' is enabled which means the simulation will generate lattice orientations from -30 to -90. In summary, we are assigning Multiscat results (0 to 60) to simulated diffraction peaks from a lattice oriented from -30 to -90.
