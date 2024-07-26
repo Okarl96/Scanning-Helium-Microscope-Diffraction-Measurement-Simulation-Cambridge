@@ -70,11 +70,14 @@ It is an interactive script that simulates the diffraction measurement of the SH
 
 **save_plots_index**: Name of the picture file saved in "save_plots".
 
+
+
+
 An example of plotting the 2D diffraction measurement is in the notebook.
 
-![examples](https://github.com/user-attachments/assets/6d9c4d7f-a48c-44f8-9985-9450d260294b)
-
 This is the place where the parameters of importing these Multiscat results correctly into the simulation are recorded.
+
+![examples](https://github.com/user-attachments/assets/6d9c4d7f-a48c-44f8-9985-9450d260294b)
 
 ![example 2d](https://github.com/user-attachments/assets/a56dee69-8957-41f9-8b42-7d7517ec4afb)
 
