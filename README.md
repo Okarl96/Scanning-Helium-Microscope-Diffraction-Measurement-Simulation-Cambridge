@@ -1,8 +1,8 @@
-# Scanning-Helium-Microscope-Diffraction-Measuement-Simulation
+# Scanning-Helium-Microscope-Diffraction-Measuement-Simulation-Cambridge
 
 Created by **Ke Wang** with help from **Boyao Liu** and **Min Lin**.
 
-It is an interactive script that simulates the diffraction measurement of the SHeM. It allows different surface lattice structures and different pinhole plate geometry to be simulated. The input of the Multiscat is also implemented, which makes it a good script to visualize the multiscat result.
+It is an interactive script that simulates the diffraction measurement of the SHeM at the University of Cambridge. It allows different surface lattice structures and different pinhole plate geometry to be simulated. The input of the Multiscat is also implemented, which makes it a good script to visualize the multiscat result.
 
 ![simulation parameters](https://github.com/user-attachments/assets/2178b8f7-2d89-4f39-9471-601a7467eab1)
 
